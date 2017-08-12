@@ -1,0 +1,99 @@
+/* index.css | custom css file for index.html */
+body {
+  padding-top: 50px;
+}
+
+.navbar {
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0;
+  padding: 15px;
+}
+
+a.navbar-brand {
+  height: 10px;
+  width: 10px;
+  margin-top: -25px;
+}
+
+.jumbotron {
+    background-color: #217C75;
+}
+
+.jumbotron .container {
+    color: #FFF;
+}
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.col-md-8 .btn {
+  /*color: #217C75;*/
+  /*border: 1px solid #217C75;*/
+  color: #FFF;
+  background-color: #217C75;
+  border: 1px solid #FFF;
+  border-radius: 0%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  margin: 10px 0;
+  padding: 10px 20px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.col-md-8 .btn:hover {
+  background-color: #FFF;
+  border: 1px solid #217C75;
+  color: #217C75;
+}
+
+h2 {
+  margin-bottom: 30px;
+}
+
+.col-md-8 {
+  padding: 60px;
+}
+
+.phone img {
+  height: 600px;
+  width: 300px;
+}
+
+.rowpic {
+  text-align: center;
+}
+
+.rowpic img {
+  height: 100px;
+  width: 200px;
+}
+
+.col-md-4 .btn {
+  color: #7D7D7D;
+  background-color: #FFF;
+  border: 2px solid #7D7D7D;
+  border-radius: 0%;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  margin: 10px 0;
+  padding: 8px 40px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.col-md-4 h5 {
+  font-weight: bold;
+  margin-top: 10px;
+  margin-bottom: 2px;
+  padding: 0;
+}
+
+#navbar li {
+  margin: 0 10px;
+}
