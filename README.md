@@ -7,4 +7,4 @@ b.     To view the file, open it in a browser. As you make changes, you can refr
 5.     Add JavaScript to make the buttons display a message (alert) that is different for each button
 a.     Optionally, you can create JS file named index.js to store your code
 6.     Zip your solution, and send it to us
-7.      Final step to IamBham!
+7.      Final step to IamBham!# Iambham
